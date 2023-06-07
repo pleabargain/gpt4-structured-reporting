@@ -1,6 +1,6 @@
 # Radiology Report Structuring with GPT-4
 
-This repository demonstrates how radiology reports can be structured using OpenAI's GPT-4. It includes example notebooks, a demo Flask app, and sample reports. The main goal is to demonstrate how large language models can be stratecially propmpted to perform complex tasks in information extraction and structuring of complex text data.
+This repository demonstrates how radiology reports can be structured using OpenAI's GPT-4. It includes example notebooks, a demo Flask app, and sample reports. The main goal is to demonstrate how large language models can be stratecially prompted to perform complex tasks in information extraction and structuring of complex text data.
 
 
 ## Repository Structure:
